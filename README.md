@@ -85,6 +85,20 @@
 
 ---
 
+## Demo Video
+
+Here is a demo of the **Gamified Habit Tracker** Chrome extension in action:
+
+<video width="500" controls>
+  <source src="Working.mkv" type="video/x-matroska">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+---
+
 ## Future Enhancements
 
 1. **Global Leaderboard**:
