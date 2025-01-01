@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Gamified Habit Tracker",
+  "description": "Track your browsing habits and turn them into a game.",
+  "version": "1.0",
+  "permissions": ["tabs", "storage", "activeTab", "alarms"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon.png",
+      "48": "icons/icon.png",
+      "128": "icons/icon.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  },
+  "host_permissions": ["<all_urls>"]
+}
