@@ -90,7 +90,7 @@
 Here is a demo of the **Gamified Habit Tracker** Chrome extension in action:
 
 <video width="500" controls>
-  <source src="Working.mkv" type="video/x-matroska">
+  <source src="Working.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
