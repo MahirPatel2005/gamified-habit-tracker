@@ -1,3 +1,9 @@
+To embed your LinkedIn post within the README using an iframe, you can't directly embed LinkedIn content into markdown, as LinkedIn doesn't support iframe embeds like YouTube does. However, you can add a link to your LinkedIn post, and if you want to include a preview image for more engagement, you can link to it with a thumbnail.
+
+Here’s the updated version of your README with a link to your LinkedIn post:
+
+---
+
 # Gamified Habit Tracker
 
 **Gamified Habit Tracker** is a Chrome extension designed to boost productivity by turning your browsing habits into a game. Earn points, unlock achievements, and compete with friends while staying productive and blocking distractions!
@@ -20,7 +26,6 @@
    - Add productive and blocked sites as per your preferences.
 
 ---
-
 
 ## Directory Structure
 
@@ -89,10 +94,15 @@
 
 Here is a demo of the **Gamified Habit Tracker** Chrome extension in action:
 
-[![Watchdemo](icons/icon.png)](Working.mp4)
+[![Watch demo](icons/icon.png)](Working.mp4)
 
+---
 
+## LinkedIn Post
 
+Check out the post for more details about the extension:
+
+[Visit my LinkedIn Post](https://www.linkedin.com/posts/mahir-r-patel_productivity-chromeextension-gamification-activity-7280169209920110592-HRUl?utm_source=share&utm_medium=member_desktop)
 
 ---
 
@@ -118,5 +128,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ---
 
-
-
+This approach provides a direct link to your LinkedIn post. Although you cannot embed it as an iframe, the link ensures users can view the post on LinkedIn for more context.
